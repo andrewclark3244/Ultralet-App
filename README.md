@@ -2,7 +2,7 @@
 
 <h1 align="center">Ultralet-App</h1>
 
-The deployable all-in-one bundle for [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), a highly sophisticated pr0xy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
+The deployable all-in-one bundle for [Ultralet](https://github.com/titaniumnetwork-dev/Ultraviolet), a highly sophisticated pr0xy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
 
 ## Deployment
 
